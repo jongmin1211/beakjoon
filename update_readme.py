@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-# 🔹 백준 아이디 입력
-BAEKJOON_ID = "your_baekjoon_id"
+# 🔹 백준 아이디 설정
+BAEKJOON_ID = "myf6magic05"
 
 # 🔹 백준 프로필 페이지 크롤링
 url = f"https://www.acmicpc.net/user/{BAEKJOON_ID}"
