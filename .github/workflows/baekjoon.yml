@@ -2,7 +2,7 @@ name: Baekjoon Auto Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 00시에 실행
+    - cron: '0 15 * * *'  # 매일 00시에 실행
   push:
     branches:
       - main
