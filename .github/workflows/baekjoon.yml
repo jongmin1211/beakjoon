@@ -2,7 +2,7 @@ name: Baekjoon Auto Update
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # 매일 00시에 실행
+    - cron: '0 15 * * *'  # 매일 00시(KST) 실행
   push:
     branches:
       - main
@@ -14,10 +14,10 @@ jobs:
       contents: write 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -29,8 +29,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "your_email@example.com"
-          git config --local user.name "your_github_username"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update README with latest Baekjoon problems" || echo "No changes to commit"
-          git push
+          git diff-index --quiet HEAD || (git commit -m "Update README with latest Baekjoon problems" && git push)
