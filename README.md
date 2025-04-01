@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (239개)
+### 해결한 문제 (242개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -205,6 +205,7 @@
 - [17219. 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
 - [18108. 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
 - [18110. solved.ac](https://www.acmicpc.net/problem/18110)
+- [19698. 헛간 청약](https://www.acmicpc.net/problem/19698)
 - [20492. 세금](https://www.acmicpc.net/problem/20492)
 - [20499. Darius님 한타 안 함?](https://www.acmicpc.net/problem/20499)
 - [22193. Multiply](https://www.acmicpc.net/problem/22193)
@@ -214,6 +215,7 @@
 - [24075. 計算 (Calculation)](https://www.acmicpc.net/problem/24075)
 - [24086. 身長 (Height)](https://www.acmicpc.net/problem/24086)
 - [24723. 녹색거탑](https://www.acmicpc.net/problem/24723)
+- [24883. 자동완성](https://www.acmicpc.net/problem/24883)
 - [24900. 한별 찍기](https://www.acmicpc.net/problem/24900)
 - [25083. 새싹](https://www.acmicpc.net/problem/25083)
 - [25311. UCPC에서 가장 쉬운 문제 번호는?](https://www.acmicpc.net/problem/25311)
@@ -240,5 +242,6 @@
 - [31614. 分 (Minutes)](https://www.acmicpc.net/problem/31614)
 - [31654. Adding Trouble](https://www.acmicpc.net/problem/31654)
 - [32384. 사랑은 고려대입니다](https://www.acmicpc.net/problem/32384)
+- [32929. UOS 문자열](https://www.acmicpc.net/problem/32929)
 - [32951. AI 선도대학](https://www.acmicpc.net/problem/32951)
 - [33515. 노트북 세 대를 가지고 왔다](https://www.acmicpc.net/problem/33515)
