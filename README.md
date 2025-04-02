@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (242개)
+### 해결한 문제 (243개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -82,6 +82,7 @@
 - [2747. 피보나치 수](https://www.acmicpc.net/problem/2747)
 - [2748. 피보나치 수 2](https://www.acmicpc.net/problem/2748)
 - [2751. 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+- [2752. 세수정렬](https://www.acmicpc.net/problem/2752)
 - [2753. 윤년](https://www.acmicpc.net/problem/2753)
 - [2754. 학점계산](https://www.acmicpc.net/problem/2754)
 - [2755. 이번학기 평점은 몇점?](https://www.acmicpc.net/problem/2755)
