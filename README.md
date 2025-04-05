@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (243개)
+### 해결한 문제 (244개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -231,6 +231,7 @@
 - [27433. 팩토리얼 2](https://www.acmicpc.net/problem/27433)
 - [27434. 팩토리얼 3](https://www.acmicpc.net/problem/27434)
 - [27866. 문자와 문자열](https://www.acmicpc.net/problem/27866)
+- [27959. 초코바](https://www.acmicpc.net/problem/27959)
 - [28114. 팀명 정하기](https://www.acmicpc.net/problem/28114)
 - [28444. HI-ARC=?](https://www.acmicpc.net/problem/28444)
 - [28701. 세제곱의 합](https://www.acmicpc.net/problem/28701)
