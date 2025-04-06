@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (244개)
+### 해결한 문제 (245개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -189,6 +189,7 @@
 - [14681. 사분면 고르기](https://www.acmicpc.net/problem/14681)
 - [14916. 거스름돈](https://www.acmicpc.net/problem/14916)
 - [14928. 큰 수 (BIG)](https://www.acmicpc.net/problem/14928)
+- [14940. 쉬운 최단거리](https://www.acmicpc.net/problem/14940)
 - [15000. CAPS](https://www.acmicpc.net/problem/15000)
 - [15232. Rectangles](https://www.acmicpc.net/problem/15232)
 - [15439. 베라의 패션](https://www.acmicpc.net/problem/15439)
