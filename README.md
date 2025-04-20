@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (246개)
+### 해결한 문제 (249개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -42,6 +42,7 @@
 - [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
 - [1920. 수 찾기](https://www.acmicpc.net/problem/1920)
 - [1929. 소수 구하기](https://www.acmicpc.net/problem/1929)
+- [1931. 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [1966. 프린터 큐](https://www.acmicpc.net/problem/1966)
 - [1977. 완전제곱수](https://www.acmicpc.net/problem/1977)
 - [1978. 소수 찾기](https://www.acmicpc.net/problem/1978)
@@ -130,6 +131,7 @@
 - [9654. 나부 함대 데이터](https://www.acmicpc.net/problem/9654)
 - [9655. 돌 게임](https://www.acmicpc.net/problem/9655)
 - [9656. 돌 게임 2](https://www.acmicpc.net/problem/9656)
+- [10026. 적록색약](https://www.acmicpc.net/problem/10026)
 - [10039. 평균 점수](https://www.acmicpc.net/problem/10039)
 - [10101. 삼각형 외우기](https://www.acmicpc.net/problem/10101)
 - [10171. 고양이](https://www.acmicpc.net/problem/10171)
@@ -222,6 +224,7 @@
 - [25083. 새싹](https://www.acmicpc.net/problem/25083)
 - [25311. UCPC에서 가장 쉬운 문제 번호는?](https://www.acmicpc.net/problem/25311)
 - [25372. 성택이의 은밀한 비밀번호](https://www.acmicpc.net/problem/25372)
+- [26082. WARBOY](https://www.acmicpc.net/problem/26082)
 - [26545. Mathematics](https://www.acmicpc.net/problem/26545)
 - [26711. A+B](https://www.acmicpc.net/problem/26711)
 - [26766. Serca](https://www.acmicpc.net/problem/26766)
