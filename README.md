@@ -2,12 +2,13 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (249개)
+### 해결한 문제 (250개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
 - [1008. A/B](https://www.acmicpc.net/problem/1008)
 - [1010. 다리 놓기](https://www.acmicpc.net/problem/1010)
+- [1012. 유기농 배추](https://www.acmicpc.net/problem/1012)
 - [1018. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [1037. 약수](https://www.acmicpc.net/problem/1037)
 - [1075. 나누기](https://www.acmicpc.net/problem/1075)
