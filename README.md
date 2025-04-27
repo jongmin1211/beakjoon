@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (250개)
+### 해결한 문제 (253개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -22,6 +22,7 @@
 - [1181. 단어 정렬](https://www.acmicpc.net/problem/1181)
 - [1193. 분수찾기](https://www.acmicpc.net/problem/1193)
 - [1225. 이상한 곱셈](https://www.acmicpc.net/problem/1225)
+- [1245. 농장 관리](https://www.acmicpc.net/problem/1245)
 - [1259. 팰린드롬수](https://www.acmicpc.net/problem/1259)
 - [1260. DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - [1264. 모음의 개수](https://www.acmicpc.net/problem/1264)
@@ -30,6 +31,7 @@
 - [1330. 두 수 비교하기](https://www.acmicpc.net/problem/1330)
 - [1343. 폴리오미노](https://www.acmicpc.net/problem/1343)
 - [1357. 뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)
+- [1374. 강의실](https://www.acmicpc.net/problem/1374)
 - [1408. 24](https://www.acmicpc.net/problem/1408)
 - [1436. 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [1439. 뒤집기](https://www.acmicpc.net/problem/1439)
@@ -210,6 +212,7 @@
 - [17219. 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
 - [18108. 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
 - [18110. solved.ac](https://www.acmicpc.net/problem/18110)
+- [18185. 라면 사기 (Small)](https://www.acmicpc.net/problem/18185)
 - [19698. 헛간 청약](https://www.acmicpc.net/problem/19698)
 - [20492. 세금](https://www.acmicpc.net/problem/20492)
 - [20499. Darius님 한타 안 함?](https://www.acmicpc.net/problem/20499)
