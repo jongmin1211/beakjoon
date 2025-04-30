@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (253개)
+### 해결한 문제 (254개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -44,6 +44,7 @@
 - [1769. 3의 배수](https://www.acmicpc.net/problem/1769)
 - [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
 - [1920. 수 찾기](https://www.acmicpc.net/problem/1920)
+- [1927. 최소 힙](https://www.acmicpc.net/problem/1927)
 - [1929. 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [1931. 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [1966. 프린터 큐](https://www.acmicpc.net/problem/1966)
