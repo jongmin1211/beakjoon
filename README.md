@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (256개)
+### 해결한 문제 (258개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -40,6 +40,7 @@
 - [1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [1654. 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [1676. 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+- [1753. 최단경로](https://www.acmicpc.net/problem/1753)
 - [1764. 듣보잡](https://www.acmicpc.net/problem/1764)
 - [1769. 3의 배수](https://www.acmicpc.net/problem/1769)
 - [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
@@ -182,6 +183,7 @@
 - [11718. 그대로 출력하기](https://www.acmicpc.net/problem/11718)
 - [11720. 숫자의 합](https://www.acmicpc.net/problem/11720)
 - [11723. 집합](https://www.acmicpc.net/problem/11723)
+- [11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 - [11726. 2×n 타일링](https://www.acmicpc.net/problem/11726)
 - [11727. 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
