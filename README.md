@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (260개)
+### 해결한 문제 (265개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -112,6 +112,7 @@
 - [5337. 웰컴](https://www.acmicpc.net/problem/5337)
 - [5338. 마이크로소프트 로고](https://www.acmicpc.net/problem/5338)
 - [5339. 콜센터](https://www.acmicpc.net/problem/5339)
+- [5430. AC](https://www.acmicpc.net/problem/5430)
 - [5522. 카드 게임](https://www.acmicpc.net/problem/5522)
 - [5524. 입실 관리](https://www.acmicpc.net/problem/5524)
 - [5532. 방학 숙제](https://www.acmicpc.net/problem/5532)
@@ -122,6 +123,8 @@
 - [6840. Who is in the middle?](https://www.acmicpc.net/problem/6840)
 - [7287. 등록](https://www.acmicpc.net/problem/7287)
 - [7568. 덩치](https://www.acmicpc.net/problem/7568)
+- [7569. 토마토](https://www.acmicpc.net/problem/7569)
+- [7576. 토마토](https://www.acmicpc.net/problem/7576)
 - [7891. Can you add this?](https://www.acmicpc.net/problem/7891)
 - [8370. Plane](https://www.acmicpc.net/problem/8370)
 - [8393. 합](https://www.acmicpc.net/problem/8393)
@@ -175,6 +178,8 @@
 - [11047. 동전 0](https://www.acmicpc.net/problem/11047)
 - [11050. 이항 계수 1](https://www.acmicpc.net/problem/11050)
 - [11098. 첼시를 도와줘!](https://www.acmicpc.net/problem/11098)
+- [11279. 최대 힙](https://www.acmicpc.net/problem/11279)
+- [11286. 절댓값 힙](https://www.acmicpc.net/problem/11286)
 - [11292. 키 큰 사람](https://www.acmicpc.net/problem/11292)
 - [11382. 꼬마 정민](https://www.acmicpc.net/problem/11382)
 - [11399. ATM](https://www.acmicpc.net/problem/11399)
