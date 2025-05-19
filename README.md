@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (265개)
+### 해결한 문제 (268개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -240,6 +240,7 @@
 - [25083. 새싹](https://www.acmicpc.net/problem/25083)
 - [25311. UCPC에서 가장 쉬운 문제 번호는?](https://www.acmicpc.net/problem/25311)
 - [25372. 성택이의 은밀한 비밀번호](https://www.acmicpc.net/problem/25372)
+- [25628. 햄버거 만들기](https://www.acmicpc.net/problem/25628)
 - [26082. WARBOY](https://www.acmicpc.net/problem/26082)
 - [26545. Mathematics](https://www.acmicpc.net/problem/26545)
 - [26711. A+B](https://www.acmicpc.net/problem/26711)
@@ -254,11 +255,13 @@
 - [27959. 초코바](https://www.acmicpc.net/problem/27959)
 - [28113. 정보섬의 대중교통](https://www.acmicpc.net/problem/28113)
 - [28114. 팀명 정하기](https://www.acmicpc.net/problem/28114)
+- [28431. 양말 짝 맞추기](https://www.acmicpc.net/problem/28431)
 - [28444. HI-ARC=?](https://www.acmicpc.net/problem/28444)
 - [28701. 세제곱의 합](https://www.acmicpc.net/problem/28701)
 - [28702. FizzBuzz](https://www.acmicpc.net/problem/28702)
 - [29751. 삼각형](https://www.acmicpc.net/problem/29751)
 - [29863. Arno's Sleep Schedule](https://www.acmicpc.net/problem/29863)
+- [30030. 스위트콘 가격 구하기](https://www.acmicpc.net/problem/30030)
 - [30328. Java Warriors](https://www.acmicpc.net/problem/30328)
 - [30802. 웰컴 키트](https://www.acmicpc.net/problem/30802)
 - [31403. $A + B - C$](https://www.acmicpc.net/problem/31403)
