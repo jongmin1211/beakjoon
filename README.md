@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (268개)
+### 해결한 문제 (269개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -79,6 +79,7 @@
 - [2588. 곱셈](https://www.acmicpc.net/problem/2588)
 - [2606. 바이러스](https://www.acmicpc.net/problem/2606)
 - [2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+- [2630. 색종이 만들기](https://www.acmicpc.net/problem/2630)
 - [2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)
 - [2675. 문자열 반복](https://www.acmicpc.net/problem/2675)
 - [2738. 행렬 덧셈](https://www.acmicpc.net/problem/2738)
