@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (276개)
+### 해결한 문제 (278개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -58,6 +58,7 @@
 - [2108. 통계학](https://www.acmicpc.net/problem/2108)
 - [2164. 카드2](https://www.acmicpc.net/problem/2164)
 - [2178. 미로 탐색](https://www.acmicpc.net/problem/2178)
+- [2206. 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [2231. 분해합](https://www.acmicpc.net/problem/2231)
 - [2292. 벌집](https://www.acmicpc.net/problem/2292)
 - [2338. 긴자리 계산](https://www.acmicpc.net/problem/2338)
@@ -227,6 +228,7 @@
 - [16170. 오늘의 날짜는?](https://www.acmicpc.net/problem/16170)
 - [16394. 홍익대학교](https://www.acmicpc.net/problem/16394)
 - [16430. 제리와 톰](https://www.acmicpc.net/problem/16430)
+- [16953. A → B](https://www.acmicpc.net/problem/16953)
 - [17219. 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
 - [17626. Four Squares](https://www.acmicpc.net/problem/17626)
 - [18108. 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
