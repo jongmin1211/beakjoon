@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (277개)
+### 해결한 문제 (278개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -144,6 +144,7 @@
 - [9375. 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 - [9461. 파도반 수열](https://www.acmicpc.net/problem/9461)
 - [9498. 시험 성적](https://www.acmicpc.net/problem/9498)
+- [9653. 스타워즈 로고](https://www.acmicpc.net/problem/9653)
 - [9654. 나부 함대 데이터](https://www.acmicpc.net/problem/9654)
 - [9655. 돌 게임](https://www.acmicpc.net/problem/9655)
 - [9656. 돌 게임 2](https://www.acmicpc.net/problem/9656)
