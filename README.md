@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (278개)
+### 해결한 문제 (277개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -106,7 +106,6 @@
 - [2839. 설탕 배달](https://www.acmicpc.net/problem/2839)
 - [2845. 파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845)
 - [2869. 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
-- [2884. 알람 시계](https://www.acmicpc.net/problem/2884)
 - [2920. 음계](https://www.acmicpc.net/problem/2920)
 - [3003. 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
 - [3052. 나머지](https://www.acmicpc.net/problem/3052)
