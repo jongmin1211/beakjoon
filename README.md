@@ -2,7 +2,7 @@
 
 ## myf6magic05님의 백준 문제 풀이 현황
 
-### 해결한 문제 (292개)
+### 해결한 문제 (294개)
 - [1000. A+B](https://www.acmicpc.net/problem/1000)
 - [1001. A-B](https://www.acmicpc.net/problem/1001)
 - [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)
@@ -47,6 +47,7 @@
 - [1753. 최단경로](https://www.acmicpc.net/problem/1753)
 - [1764. 듣보잡](https://www.acmicpc.net/problem/1764)
 - [1769. 3의 배수](https://www.acmicpc.net/problem/1769)
+- [1806. 부분합](https://www.acmicpc.net/problem/1806)
 - [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
 - [1920. 수 찾기](https://www.acmicpc.net/problem/1920)
 - [1927. 최소 힙](https://www.acmicpc.net/problem/1927)
@@ -293,5 +294,6 @@
 - [32951. AI 선도대학](https://www.acmicpc.net/problem/32951)
 - [33515. 노트북 세 대를 가지고 왔다](https://www.acmicpc.net/problem/33515)
 - [34052. 체육은 수학과목 입니다 2](https://www.acmicpc.net/problem/34052)
+- [34837. 문자열 일치도](https://www.acmicpc.net/problem/34837)
 - [34849. 이중 반복문](https://www.acmicpc.net/problem/34849)
 - [34921. 덕후](https://www.acmicpc.net/problem/34921)
